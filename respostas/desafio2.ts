@@ -13,6 +13,7 @@ let funcionario02: {nome: string, idade: number, profissao:string} = {
     profissao: 'padeiro'
 }
 
+//Exemplo 2
 enum Profissao {
     Atriz,
     Padeiro
