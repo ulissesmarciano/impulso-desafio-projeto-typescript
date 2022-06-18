@@ -1,0 +1,26 @@
+{
+  "name": "impulso-desafio-projeto-typescript",
+  "version": "1.0.0",
+  "description": "Repositório destinado ao desafio de projeto sobre o TypeScript resolvidos.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ulissesmarciano/impulso-desafio-projeto-typescript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ulissesmarciano/impulso-desafio-projeto-typescript/issues"
+  },
+  "homepage": "https://github.com/ulissesmarciano/impulso-desafio-projeto-typescript#readme",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  },
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
