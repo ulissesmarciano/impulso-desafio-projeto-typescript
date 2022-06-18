@@ -4,7 +4,7 @@
 let funcionario01 = {
     nome: 'maria',
     idade: 29,
-    profissao: 'Atriz'
+    profissao: 'Corretora'
 };
 let funcionario02 = {
     nome: 'roberto',

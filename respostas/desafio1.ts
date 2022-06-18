@@ -20,10 +20,8 @@ let funcionario2 = {
 
 //Exemplo3
 enum Profissao{
-    Atendente,
-    Corretor,
     Vendedor,
-    Repositor
+    Estoquista
 }
 
 interface Funcionario {
