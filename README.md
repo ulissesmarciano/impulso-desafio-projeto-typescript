@@ -7,8 +7,8 @@ No repositório foi implementado os desafios respondidos em ts com as soluções
 
 ### Links
 
-- Desafios [Clique Aqui](ulissesmarciano/impulso-dio-desafio-aula-projeto-typescript/dist/respostas)
-- Respostas [Clique Aqui](ulissesmarciano/impulso-dio-desafio-aula-projeto-typescript/respostas)
+- Desafios [Clique Aqui](https://github.com/ulissesmarciano/impulso-desafio-projeto-typescript/tree/main/dist/respostas)
+- Respostas [Clique Aqui](https://github.com/ulissesmarciano/impulso-desafio-projeto-typescript/tree/main/respostas)
 
 
 
