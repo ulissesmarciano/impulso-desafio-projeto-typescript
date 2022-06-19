@@ -11,6 +11,7 @@ let funcionario02 = {
     idade: 19,
     profissao: 'padeiro'
 };
+//Exemplo 2
 var Profissao;
 (function (Profissao) {
     Profissao[Profissao["Atriz"] = 0] = "Atriz";
@@ -23,6 +24,16 @@ let pessoa1 = {
 };
 let pessoa2 = {
     nome: 'roberto',
+    idade: 19,
+    profissao: Profissao.Padeiro
+};
+let pessoa3 = {
+    nome: 'laura',
+    idade: 32,
+    profissao: Profissao.Atriz
+};
+let pessoa4 = {
+    nome: 'carlos',
     idade: 19,
     profissao: Profissao.Padeiro
 };
